@@ -4,8 +4,8 @@
 
 
 ### Links & Resources
-- [CI/CD]()
-- [Backend Server]()
+- CI/CD *coming soon*
+- [Backend Server](https://aysiab-api-server.herokuapp.com/)
 - No applicable front end
 
 ### Setup
